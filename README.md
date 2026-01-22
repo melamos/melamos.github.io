@@ -1,33 +1,33 @@
 # Melissa Amos
 
-**Strategic Content Leader** | Building scalable documentation systems and content frameworks
+**Documentation Architect** | Building documentation systems and content frameworks that drive product clarity at scale
 
-15+ years creating content strategies, documentation systems, and information architectures for enterprise software, security products, and DevOps tools.
+15+ years designing content infrastructure for enterprise software, establishing information architecture that reduces complexity, and creating terminology systems that improve cross-functional collaboration.
 
 ## 👋 About Me
 
-I specialize in building foundational content systems from the ground up, solving complex information architecture challenges, and establishing content governance frameworks that scale across organizations. My work focuses on the strategic side of technical content—creating systems, not just pages.
+I operate at the intersection of technical precision and user advocacy, architecting documentation systems and content frameworks for complex enterprise products. My work focuses on building scalable information architecture, establishing content governance, and creating terminology frameworks that streamline development cycles and reduce support burden.
 
 ## 🔧 Core Expertise
 
-- **Content Strategy:** Content operations, governance frameworks, style systems, product language
-- **Information Architecture:** Documentation structures, taxonomy design, content modeling
-- **Technical Documentation:** Enterprise software, APIs, DevOps tools, security products, AI/ML
-- **Content Systems:** Docs-as-code, DITA/XML, component content management
-- **Cross-functional Leadership:** Engineering, Product, Design, Marketing collaboration
+- **Documentation Systems & Strategy:** Information architecture, content governance, documentation frameworks, terminology management, style guide development
+- **Enterprise Product Documentation:** DevOps platforms, security products, AI/ML platforms, automation tools, distributed systems
+- **Content Operations:** Building programs from scratch, docs-as-code workflows, AI-integrated content processes
+- **UX Writing & Content Design:** Interface content, microcopy, controlled vocabulary, product nomenclature
+- **Cross-functional Leadership:** Engineering partnerships, product collaboration, design alignment, developer advocacy
 
 ## 🛠️ Tools & Technologies
 
-**Documentation:** GitHub, Markdown, DITA/XML, Docusaurus, MadCap Flare, Paligo, Oxygen XML  
-**APIs & Development:** Swagger/OpenAPI, HTML/CSS, REST APIs  
-**Design & Collaboration:** Figma, Miro, Slack, Jira
+**Documentation:** Markdown, Git/GitHub, DITA/XML, Docusaurus, Oxygen XML  
+**Development & APIs:** HTML/CSS, REST APIs, YAML, AI-assisted workflows  
+**Collaboration:** JIRA, Slack, Figma, Miro
 
 ## 📚 Featured Work
 
-- **AI Hub Nomenclature Standardization** – Established organization-wide terminology standards for enterprise AI platform
-- **DITA Migration & IA Redesign** – Led migration unifying 5+ documentation systems into scalable architecture
-- **Content Operations (Zero to One)** – Built complete documentation program from scratch for SaaS security startup
-- **UI Text Style Guide** – Pioneered comprehensive product language standards and glossary
+- **AI Hub Terminology Framework** – Established authoritative reference for product language that reduced development cycles
+- **Unified Documentation Architecture** – Led DITA migration integrating siloed Enterprise and open-source documentation
+- **Documentation Program (Zero to One)** – Built comprehensive content operations achieving 100% feature coverage for SaaS security platform
+- **UI Text Style Guide** – Pioneered company-wide interface content standards and microcopy patterns
 
 ## 🌐 Portfolio
 
@@ -36,11 +36,11 @@ Visit my portfolio site for detailed case studies and documentation samples:
 
 ## 📫 Get in Touch
 
-Currently seeking Staff or Principal Technical Writer roles focused on content strategy and system design.
+Currently seeking Staff or Principal Technical Writer roles focused on documentation architecture and system design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissaamos/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://melamos.github.io)
 
 ---
 
-*Building content systems that scale, one documentation framework at a time.*
+*Architecting content systems that scale, one documentation framework at a time.*
