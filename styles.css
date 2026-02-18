@@ -623,7 +623,7 @@ footer p {
 @media (max-width: 768px) {
     .nav-container {
         flex-direction: column;
-        gap: var(--spacing-xs);
+        gap: 0;
         padding: var(--spacing-sm) var(--spacing-md);
         align-items: center;
     }
@@ -634,20 +634,7 @@ footer p {
     }
     
     .nav-links {
-        gap: var(--spacing-sm);
-        flex-wrap: wrap;
-        justify-content: center;
-        width: 100%;
-    }
-    
-    .nav-links li {
-        flex: 0 0 auto;
-    }
-    
-    .nav-links a {
-        font-size: 0.95rem;
-        padding: var(--spacing-xs) var(--spacing-sm);
-        white-space: nowrap;
+        display: none;
     }
     
     #hero {
