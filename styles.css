@@ -623,11 +623,23 @@ footer p {
 @media (max-width: 768px) {
     .nav-container {
         flex-direction: column;
-        gap: var(--spacing-sm);
+        gap: var(--spacing-xs);
+        padding: var(--spacing-sm) var(--spacing-md);
+    }
+    
+    .logo {
+        font-size: 1.25rem;
     }
     
     .nav-links {
-        gap: var(--spacing-sm);
+        gap: var(--spacing-xs);
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .nav-links a {
+        font-size: 0.9rem;
+        padding: var(--spacing-xs);
     }
     
     #hero h2 {
