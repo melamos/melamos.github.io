@@ -625,37 +625,53 @@ footer p {
         flex-direction: column;
         gap: var(--spacing-xs);
         padding: var(--spacing-sm) var(--spacing-md);
+        align-items: center;
     }
     
     .logo {
         font-size: 1.25rem;
+        text-align: center;
     }
     
     .nav-links {
-        gap: var(--spacing-xs);
+        gap: var(--spacing-sm);
         flex-wrap: wrap;
         justify-content: center;
+        width: 100%;
+    }
+    
+    .nav-links li {
+        flex: 0 0 auto;
     }
     
     .nav-links a {
-        font-size: 0.9rem;
-        padding: var(--spacing-xs);
+        font-size: 0.95rem;
+        padding: var(--spacing-xs) var(--spacing-sm);
+        white-space: nowrap;
+    }
+    
+    #hero {
+        padding: var(--spacing-lg) 0;
     }
     
     #hero h2 {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
     
     #hero .tagline {
-        font-size: 1.1rem;
+        font-size: 1rem;
+    }
+    
+    #hero .intro {
+        font-size: 1rem;
     }
     
     h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
     
     h2 {
-        font-size: 1.75rem;
+        font-size: 1.5rem;
     }
     
     .expertise-grid {
