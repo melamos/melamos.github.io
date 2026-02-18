@@ -1,46 +1,36 @@
 # Melissa Amos
 
-**Documentation Architect** | Building documentation systems and content frameworks that drive product clarity at scale
+**Content Design & Strategy** | Designing content that drives product clarity at scale
 
-15+ years designing content infrastructure for enterprise software, establishing information architecture that reduces complexity, and creating terminology systems that improve cross-functional collaboration.
+15+ years crafting technical and product content that reduces complexity and support burden while streamlining development cycles. I write award-winning technical documentation, architect documentation systems, establish content standards and terminology frameworks, and build content operations from the ground up.
 
-## 👋 About Me
+## About Me
 
-I operate at the intersection of technical precision and user advocacy, architecting documentation systems and content frameworks for complex enterprise products. My work focuses on building scalable information architecture, establishing content governance, and creating terminology frameworks that streamline development cycles and reduce support burden.
+I operate at the intersection of technical precision and user advocacy, translating complex concepts into clear documentation, standardized nomenclature, and intuitive interface content.
 
-## 🔧 Core Expertise
+My approach combines deep technical understanding with strategic thinking about information architecture, user experience, and cross-functional collaboration. I solve systemic content challenges—bridging siloed content across product lines, architecting documentation systems that eliminate technical debt, establishing terminology frameworks that prevent costly development delays.
 
-- **Documentation Systems & Strategy:** Information architecture, content governance, documentation frameworks, terminology management, style guide development
-- **Enterprise Product Documentation:** DevOps platforms, security products, AI/ML platforms, automation tools, distributed systems
-- **Content Operations:** Building programs from scratch, docs-as-code workflows, AI-integrated content processes
-- **UX Writing & Content Design:** Interface content, microcopy, controlled vocabulary, product nomenclature
-- **Cross-functional Leadership:** Engineering partnerships, product collaboration, design alignment, developer advocacy
+My work becomes organizational infrastructure: the frameworks teams rely on, the standards that enable independent decision-making, and the governance channels that align cross-functional collaboration.
 
-## 🛠️ Tools & Technologies
+## Core Expertise
 
-**Documentation:** Markdown, Git/GitHub, DITA/XML, Docusaurus, Oxygen XML  
-**Development & APIs:** HTML/CSS, REST APIs, YAML, AI-assisted workflows  
-**Collaboration:** JIRA, Slack, Figma, Miro
+**Terminology Management:** Product nomenclature and naming frameworks, controlled vocabulary development, systematic terminology analysis, upstream integration at PRD/CUJ phase, glossary and taxonomy development, cross-functional alignment on naming standards
 
-## 📚 Featured Work
+**Content Design & UI Writing:** UI text and microcopy, in-product content, style guide development, empty states and error messages, tooltips and contextual help, real-time content guidance, usability testing, accessibility standards
 
-- **AI Hub Terminology Framework** – Established authoritative reference for product language that reduced development cycles
-- **Unified Documentation Architecture** – Led DITA migration integrating siloed Enterprise and open-source documentation
-- **Documentation Program (Zero to One)** – Built comprehensive content operations achieving 100% feature coverage for SaaS security platform
-- **UI Text Style Guide** – Pioneered company-wide interface content standards and microcopy patterns
+**Information Architecture & Content Strategy:** Solving complex IA challenges through systematic analysis, architecting content systems that scale across contexts, content reuse frameworks and repository design, content governance and workflow management, bridging DITA/XML with docs-as-code workflows, strategic content recommendations backed by competitive research and cost-benefit analysis
 
-## 🌐 Portfolio
+**Documentation Leadership:** Building and scaling documentation programs, AI-assisted documentation workflows, docs-as-code implementation, Markdown/Git/GitHub, DITA/XML and structured authoring, style automation, content governance frameworks, documentation processes, cross-functional collaboration, mentorship and organizational capacity building
+
+## Portfolio
 
 Visit my portfolio site for detailed case studies and documentation samples:  
-**[melamos.github.io](https://melamos.github.io)**
+**https://melamos.github.io**
 
-## 📫 Get in Touch
+## Get in Touch
 
-Currently seeking Staff or Principal Technical Writer roles focused on documentation architecture and system design.
+I'm currently seeking Staff or Principal level roles where I can leverage technical content to improve user experience and drive product clarity at scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissaamos/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://melamos.github.io)
-
----
-
-*Architecting content systems that scale, one documentation framework at a time.*
+- LinkedIn: https://www.linkedin.com/in/melissaamos/
+- GitHub: https://github.com/melamos
+- Email: melissa.amos@gmail.com
