@@ -2,25 +2,25 @@
 
 **Content Design & Strategy** | Designing content that drives product clarity at scale
 
-15+ years crafting technical and product content that reduces complexity and support burden while streamlining development cycles. I write award-winning technical documentation, architect documentation systems, establish content standards and terminology frameworks, and build content operations from the ground up.
+15+ years crafting technical and product content that reduces complexity and support burden while streamlining development cycles. I write award-winning technical documentation, design intuitive interface content, establish content standards and terminology frameworks, and build content operations from the ground up.
 
 ## About Me
 
-I operate at the intersection of technical precision and user advocacy, translating complex concepts into clear documentation, standardized nomenclature, and intuitive interface content.
+I operate at the intersection of technical precision and user advocacy, translating complex concepts into clear documentation, standardized nomenclature, and effective interface content.
 
-My approach combines deep technical understanding with strategic thinking about information architecture, user experience, and cross-functional collaboration. I solve systemic content challenges—bridging siloed content across product lines, architecting documentation systems that eliminate technical debt, establishing terminology frameworks that prevent costly development delays.
+My approach combines deep technical understanding with strategic thinking about information architecture, user experience, and cross-functional collaboration. I solve challenging content problems—bridging siloed content across product lines, architecting documentation that eliminates technical debt, and establishing terminology frameworks that prevent costly development delays.
 
-My work becomes organizational infrastructure: the frameworks teams rely on, the standards that enable independent decision-making, and the governance channels that align cross-functional collaboration.
+My work becomes organizational infrastructure that enables teams to scale and users to succeed.
 
 ## Core Expertise
 
 **Terminology Management:** Product nomenclature and naming frameworks, controlled vocabulary development, systematic terminology analysis, upstream integration at PRD/CUJ phase, glossary and taxonomy development, cross-functional alignment on naming standards
 
-**Content Design & UI Writing:** UI text and microcopy, in-product content, style guide development, empty states and error messages, tooltips and contextual help, real-time content guidance, usability testing, accessibility standards
+**Content Design & UI Writing:** UI text and microcopy, style guide development, empty states and error messages, tooltips and contextual help, real-time content guidance, usability testing and accessibility standards
 
-**Information Architecture & Content Strategy:** Solving complex IA challenges through systematic analysis, architecting content systems that scale across contexts, content reuse frameworks and repository design, content governance and workflow management, bridging DITA/XML with docs-as-code workflows, strategic content recommendations backed by competitive research and cost-benefit analysis
+**Information Architecture & Content Strategy:** Architecting content that adapts across contexts, content reuse frameworks and repository design, solving complex IA challenges through systematic analysis, content governance and workflow management, strategic recommendations backed by research and cost-benefit analysis
 
-**Documentation Leadership:** Building and scaling documentation programs, AI-assisted documentation workflows, docs-as-code implementation, Markdown/Git/GitHub, DITA/XML and structured authoring, style automation, content governance frameworks, documentation processes, cross-functional collaboration, mentorship and organizational capacity building
+**Documentation Leadership:** Building and scaling documentation programs, AI-assisted documentation workflows, docs-as-code, Markdown, Git/GitHub, DITA/XML and structured authoring, style automation and content governance, mentorship and team development
 
 ## Portfolio
 
